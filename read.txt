@@ -3,9 +3,5 @@ git is a distributed version control system.
 git is free software.
 git has a mutable index called stage.
 create a new branch is quick.
-<<<<<<< HEAD
-create a new branch is quick and simple.
-=======
 Create a new branch is quick and simple.
->>>>>>> feature1
-git is nice.
+
